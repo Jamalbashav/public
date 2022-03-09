@@ -1,0 +1,6 @@
+module sample_tb();
+//instance 
+initial begin
+//initialization 
+end
+endmodule
